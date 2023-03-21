@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:grid;
+	grid-row-lines:100px 100px;
+}
